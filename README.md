@@ -1,4 +1,4 @@
-# Mafia for iOS *(Open Source Project)*
+# Mafia for iOS *(Open Source)*
 
 Before working on this it is important to be familiar with the rules of Mafia. You can check out this Wikipedia article https://en.wikipedia.org/wiki/Mafia_(party_game)
 
