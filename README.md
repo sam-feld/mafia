@@ -35,7 +35,7 @@ If your contributions to this project will be open source, it is best not to sha
 If you plan on publishing the app then the information in that file will be publicly available, so you will need to set up more advanced security measures. This video is a good guide for setting up security rules https://www.youtube.com/watch?v=ysvmtLCYou0 Documentation on Firetore security rules can be found here https://firebase.google.com/docs/rules  Additionally, it is recommended to set up a Firebase service called "App check". This is a paid service that ensures that your database can only be accessed from users of your app. Its documentation can be found here https://firebase.google.com/docs/app-check
 
 ## Some Ideas for Additions:
-1) Have the app work for a custom amount of players (Minimum should be four, one Mafifa, one Detective, one Doctor, one Civilian).
+1) Have the app work for a custom amount of players (Currently it only works for six players. When a custom amount of players is set up, the minimum should be four: one Mafia, one Detective, one Doctor, and one Civilian).
 2) Have specialty roles that players can choose to include. There are some great ideas in the Wikipedia article above, as well as at this link https://deusexmafia.fandom.com/wiki/Mafia_Roles
 3) Add an overview of the rules.
 4) Create variations of the game that fit in different genres or time-periods. For example, there can be a werewolf variation or a world war II spy variation.
