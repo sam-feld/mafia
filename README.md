@@ -36,7 +36,7 @@ If you plan on publishing the app then the information in that file will be publ
 
 ## Some Ideas for Additions:
 1) Have the app work for a custom amount of players (Currently it only works for six players. When a custom amount of players is set up, the minimum should be four: one Mafia, one Detective, one Doctor, and one Civilian).
-2) Have specialty roles that players can choose to include. There are some great ideas in the Wikipedia article [above](#mafia-for-ios-open-source)), as well as at this link https://deusexmafia.fandom.com/wiki/Mafia_Roles
+2) Have specialty roles that players can choose to include. There are some great ideas in the Wikipedia article [above](#mafia-for-ios-open-source), as well as at this link https://deusexmafia.fandom.com/wiki/Mafia_Roles
 3) Add an overview of the rules.
 4) Create variations of the game that fit in different genres or time-periods. For example, there can be a werewolf variation or a world war II spy variation.
 
